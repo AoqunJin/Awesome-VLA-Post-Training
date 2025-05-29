@@ -15,13 +15,13 @@ We welcome contributions from researchers and practitioners passionate about adv
 
 A curated selection of influential papers, benchmarks, and projects that have significantly contributed to the field of generative embodied AI. These works provide foundational insights and state-of-the-art methods that inform current research directions.
 
-* RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control. ([Paper](https://arxiv.org/abs/2307.15818), [Website](https://deepmind.google/discover/blog/rt-2-new-model-translates-vision-and-language-into-action))
+* **[2023-07]** RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control. ([Paper](https://arxiv.org/abs/2307.15818), [Website](https://deepmind.google/discover/blog/rt-2-new-model-translates-vision-and-language-into-action))
 
-* Octo: An Open-Source Generalist Robot Policy. ([Paper](https://arxiv.org/abs/2405.12213), [Website](https://octo-models.github.io), [Code](https://github.com/octo-models/octo))
+* **[2024-05]** Octo: An Open-Source Generalist Robot Policy. ([Paper](https://arxiv.org/abs/2405.12213), [Website](https://octo-models.github.io), [Code](https://github.com/octo-models/octo))
 
-* OpenVLA: An Open-Source Vision-Language-Action Model. ([Paper](https://arxiv.org/abs/2406.09246), [Website](https://openvla.github.io), [Code](https://github.com/openvla/openvla))
+* **[2024-06]** OpenVLA: An Open-Source Vision-Language-Action Model. ([Paper](https://arxiv.org/abs/2406.09246), [Website](https://openvla.github.io), [Code](https://github.com/openvla/openvla))
 
-* π0: A Vision-Language-Action Flow Model for General Robot Control. ([Paper](https://arxiv.org/abs/2410.24164), [Website](https://www.physicalintelligence.company/blog/pi0), [Code](https://github.com/Physical-Intelligence/openpi))
+* **[2024-10]** π0: A Vision-Language-Action Flow Model for General Robot Control. ([Paper](https://arxiv.org/abs/2410.24164), [Website](https://www.physicalintelligence.company/blog/pi0), [Code](https://github.com/Physical-Intelligence/openpi))
 
 ---
 
