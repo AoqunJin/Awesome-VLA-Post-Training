@@ -1,6 +1,6 @@
 # :bookmark: Awesome-Embodied-AI-Tuning
 
-**Awesome-Embodied-AI-Tuning** is a continuously updated collection of cutting-edge resources focused on **tuning Embodied AI systems**. As generative AI experiences rapid growth, this repository serves as a centralized hub for research updates, practical notebooks, interview materials, and implementation insights. Our goal is to enhance the ability of AI agents to perceive, reason, and act within physical environments. Key focus areas include:
+**Awesome-Embodied-AI-Tuning** is a continuously updated collection of cutting-edge resources focused on **tuning embodied AI systems**. As embodied AI experiences rapid growth, this repository serves as a centralized hub for research updates, practical codes, and implementation insights. Our goal is to enhance the ability of AI agents to perceive, reason, and act within physical environments. Key focus areas include:
 
 * :earth_asia: **Enhancing environmental perception**
 * :brain: **Improving embodiment awareness**
@@ -13,41 +13,61 @@ We welcome contributions from researchers and practitioners passionate about adv
 
 ## :star: Notable Works
 
-A curated selection of influential papers, benchmarks, and projects that have significantly contributed to the field of generative Embodied AI. These works provide foundational insights and state-of-the-art methods that inform current research directions.
+A curated selection of influential papers, benchmarks, and projects that have significantly contributed to the field of generative embodied AI. These works provide foundational insights and state-of-the-art methods that inform current research directions.
 
-* [Demo](https://github.com/) – An Demonstration of Paper.
+* RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control. ([Paper](https://arxiv.org/abs/2307.15818), [Website](https://deepmind.google/discover/blog/rt-2-new-model-translates-vision-and-language-into-action))
+
+* Octo: An Open-Source Generalist Robot Policy. ([Paper](https://arxiv.org/abs/2405.12213), [Website](https://octo-models.github.io), [Code](https://github.com/octo-models/octo))
+
+* OpenVLA: An Open-Source Vision-Language-Action Model. ([Paper](https://arxiv.org/abs/2406.09246), [Website](https://openvla.github.io), [Code](https://github.com/openvla/openvla))
+
+* π0: A Vision-Language-Action Flow Model for General Robot Control. ([Paper](https://arxiv.org/abs/2410.24164), [Website](https://www.physicalintelligence.company/blog/pi0), [Code](https://github.com/Physical-Intelligence/openpi))
 
 ---
 
 ## :earth_asia: Enhancing Environmental Perception
 
-This section focuses on improving an agent's ability to perceive and interpret its surrounding environment through modalities such as vision, [PAD], and [PAD]. Advancements here help AI systems build richer, more accurate world models.
+This section explores methods that improve an agent’s ability to perceive and interpret its environment. It includes **affordance-guided learning**, which enables agents to understand actionable properties of objects; **enhanced encoders** tailored for manipulation tasks, allowing more precise feature extraction; and **improved representation learning**, which helps models build richer and more structured environmental understanding for downstream tasks.
 
-* [Demo](https://github.com/) – An Demonstration of Paper.
+### Affordance-Guided Learning
+
+### Enhanced Encoder for Manipulation
+
+### Enhanced Representation for Manipulation
 
 ---
 
 ## :brain: Improving Embodiment Awareness
 
-Embodiment awareness refers to an agent’s understanding of its own physical form, capabilities, and constraints. This section highlights works that improve self-modeling, proprioception, and decision-making grounded in the agent's embodiment.
+Here we focus on helping agents better understand their own physical structure and capabilities. Topics include **forward and inverse kinematics learning**, which allow agents to model the relationship between joint movements and spatial positions, and **action head design**, aimed at optimizing how high-level decisions are translated into low-level motor commands.
 
-* [Demo](https://github.com/) – An Demonstration of Paper.
+### Forward kinematics learning
+
+### Inverse kinematics learning
+
+### Action Head Designing
 
 ---
 
 ## :memo: Deepening Task Comprehension
 
-Here we explore how AI systems gain deeper understanding of tasks, including goal inference, instruction following, and generalization across tasks. This is crucial for robust performance in real-world scenarios with varying objectives.
+This section covers methods that enable agents to better understand and generalize across tasks. Key areas include **human–robot interaction**, where agents learn to interpret and respond to human inputs effectively, and **hierarchical task manipulation**, which enables multi-step reasoning and planning by decomposing complex tasks into structured subtasks.
 
-* [Demo](https://github.com/) – An Demonstration of Paper.
+### Human–Robot-Interaction
+
+### Hierarchical Task Manipulation
 
 ---
 
 ## :wrench: Multiple Component Integration
 
-Real-world Embodied AI requires seamless coordination of perception, planning, control, and language understanding. This section covers multi-component architectures, tuning strategies, and system-level optimizations for integrated performance.
+Integrating various subsystems is essential for building robust embodied agents. This section includes **reinforcement learning frameworks** for continuous control and decision-making, **visual interaction prediction** for anticipating future outcomes based on perception, and strategies for **data-efficient fine-tuning** to reduce the cost of adapting models to new environments or tasks.
 
-* [Demo](https://github.com/) – An Demonstration of Paper.
+### Reinforcement Learning
+
+### Visual Interaction Prediction
+
+### Data-effective Fine-tuning
 
 ---
 
@@ -67,6 +87,6 @@ To cite this repository in your research, please use the following BibTeX entry:
   author      = {Contributors},
   year        = {2025},
   howpublished= {\url{https://github.com/AoqunJin/Awesome-Embodied-AI-Tuning}},
-  note        = {A curated list of resources for tuning and enhancing Embodied AI systems}
+  note        = {A curated list of resources for tuning and enhancing embodied AI systems}
 }
 ```
