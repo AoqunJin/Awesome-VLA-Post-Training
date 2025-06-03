@@ -1,5 +1,5 @@
 # :bookmark: Awesome-Embodied-AI-Tuning
-
+# 
 **Awesome-Embodied-AI-Tuning** is a continuously updated collection of cutting-edge resources focused on **tuning embodied AI systems**. As embodied AI experiences rapid growth, this repository serves as a centralized hub for research updates, practical codes, and implementation insights. Our goal is to enhance the ability of AI agents to perceive, reason, and act within physical environments. Key focus areas include:
 
 * :earth_asia: **Enhancing environmental perception**
@@ -9,7 +9,7 @@
 
 We welcome contributions from researchers and practitioners passionate about advancing generative embodied intelligence. Join us in building a structured, high-quality resource for the community!
 
----
+---Sheng
 
 ## :star: Notable Works
 
