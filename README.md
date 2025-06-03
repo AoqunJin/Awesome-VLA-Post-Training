@@ -1,5 +1,5 @@
 # :bookmark: Awesome-Embodied-AI-Tuning
-# 
+
 **Awesome-Embodied-AI-Tuning** is a continuously updated collection of cutting-edge resources focused on **tuning embodied AI systems**. As embodied AI experiences rapid growth, this repository serves as a centralized hub for research updates, practical codes, and implementation insights. Our goal is to enhance the ability of AI agents to perceive, reason, and act within physical environments. Key focus areas include:
 
 * :earth_asia: **Enhancing environmental perception**
@@ -9,7 +9,7 @@
 
 We welcome contributions from researchers and practitioners passionate about advancing generative embodied intelligence. Join us in building a structured, high-quality resource for the community!
 
----Sheng
+---
 
 ## :star: Notable Works
 
@@ -165,7 +165,43 @@ This section covers methods that enable agents to better understand and generali
 
 ### Human–Robot-Interaction
 
+* **[2023-10]** What Matters to You? Towards Visual Representation Alignment for Robot Learning. ([Paper](https://arxiv.org/abs/2310.07932))
+
+* **[2024-05]** Hummer: Towards Limited Competitive Preference Dataset. ([Paper](https://arxiv.org/abs/2405.11647))
+
+* **[2024-12]** Maximizing Alignment with Minimal Feedback: Efficiently Learning Rewards for Visuomotor Robot Policy Alignment. ([Paper](https://arxiv.org/abs/2412.04835))
+
+* **[2025-03]** Adversarial Data Collection: Human-Collaborative Perturbations for Efficient and Robust Robotic Imitation Learning. ([Paper](https://arxiv.org/abs/2503.11646))
+
+* **[2025-03]** VLA Model-Expert Collaboration for Bi-directional Manipulation Learning. ([Paper](https://arxiv.org/abs/2503.04163), [Website](https://aoqunjin.github.io/Expert-VLA))
+
+* **[2025-03]** RoboCopilot: Human-in-the-loop Interactive Imitation Learning for Robot Manipulation. ([Paper](https://arxiv.org/abs/2503.07771))
+
 ### Hierarchical Task Manipulation
+
+* **[2023-11]** Look Before You Leap: Unveiling the Power of GPT-4V in Robotic Vision-Language Planning. ([Paper](https://arxiv.org/abs/2311.17842), [Website](https://robot-vila.github.io), [Code]())
+
+* **[2024-07]** Diffusion Augmented Agents: A Framework for Efficient Exploration and Transfer Learning. ([Paper](https://arxiv.org/abs/2407.20798))
+
+* **[2024-08]** Policy Adaptation via Language Optimization: Decomposing Tasks for Few-Shot Imitation. ([Paper](https://arxiv.org/abs/2408.16228), [Website](https://palo-website.github.io), [Code](https://github.com/vivekmyers/palo))
+
+* **[2024-11]** STEER: Flexible Robotic Manipulation via Dense Language Grounding. ([Paper](https://arxiv.org/abs/2411.03409), [Website](https://lauramsmith.github.io/steer))
+
+* **[2024-11]** GRAPE: Generalizing Robot Policy via Preference Alignment. ([Paper](https://arxiv.org/abs/2411.19309), [Website](https://grape-vla.github.io), [Code](https://github.com/aiming-lab/GRAPE))
+
+* **[2024-11]** CLIP-RT: Learning Language-Conditioned Robotic Policies from Natural Language Supervision. ([Paper](https://arxiv.org/abs/2411.00508), [Website](https://clip-rt.github.io), [Code](https://github.com/gicheonkang/clip-rt))
+
+* **[2025-02]** RoboBrain: A Unified Brain Model for Robotic Manipulation from Abstract to Concrete. ([Paper](https://arxiv.org/abs/2502.21257), [Website](https://superrobobrain.github.io), [Code](https://github.com/FlagOpen/RoboBrain))
+
+* **[2025-03]** RoboDexVLM: Visual Language Model-Enabled Task Planning and Motion Control for Dexterous Robot Manipulation. ([Paper](https://arxiv.org/abs/2503.01616), [Website](https://henryhcliu.github.io/robodexvlm), [Code]())
+
+* **[2025-03]** DataPlatter: Boosting Robotic Manipulation Generalization with Minimal Costly Data. ([Paper](https://arxiv.org/abs/2503.19516))
+
+* **[2025-05]** LLARVA: Vision-Action Instruction Tuning Enhances Robot Learning. ([Paper](https://arxiv.org/abs/2406.11815), [Website](https://llarva24.github.io), [Code](https://github.com/Dantong88/LLARVA))
+
+* **[2025-05]** OneTwoVLA: A Unified Vision-Language-Action Model with Adaptive Reasoning. ([Paper](https://arxiv.org/abs/2505.11917), [Website](https://one-two-vla.github.io), [Code](https://github.com/Fanqi-Lin/OneTwoVLA))
+
+* **[2025-05]** Pre-Trained Multi-Goal Transformers with Prompt Optimization for Efficient Online Adaptation. ([Paper](https://openreview.net/forum?id=DHucngOEe3&noteId=w5HGYk50VI))
 
 ---
 
