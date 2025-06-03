@@ -175,9 +175,95 @@ Integrating various subsystems is essential for building robust embodied agents.
 
 ### Reinforcement Learning
 
+* **[2023-10]** Unleashing the Power of Pre-trained Language Models for Offline Reinforcement Learning. ([Paper](https://arxiv.org/abs/2310.20587), [Website](https://lamo2023.github.io), [Code](https://github.com/srzer/LaMo-2023))
+
+* **[2023-12]** LiFT: Unsupervised Reinforcement Learning with Foundation Models as Teachers. ([Paper](https://arxiv.org/abs/2312.08958))
+
+* **[2024-01]** Building Open-Ended Embodied Agent via Language-Policy Bidirectional Adaptation. ([Paper](https://arxiv.org/abs/2401.00006), [Code](https://github.com/opendilab/OpenPaL))
+
+* **[2024-01]** Improving Vision-Language-Action Model with Online Reinforcement Learning. ([Paper](https://arxiv.org/abs/2501.16664))
+
+* **[2024-01]** Vintix: Action Model via In-Context Reinforcement Learning. ([Paper](https://arxiv.org/abs/2501.19400), [Website](), [Code](https://github.com/dunnolab/vintix))
+
+* **[2024-02]** ConRFT: A Reinforced Fine-tuning Method for VLA Models via Consistency Policy. ([Paper](https://arxiv.org/abs/2502.05450), [Website](https://cccedric.github.io/conrft), [Code](https://github.com/cccedric/conrft))
+
+* **[2024-02]** A Real-to-Sim-to-Real Approach to Robotic Manipulation with VLM-Generated Iterative Keypoint Rewards. ([Paper](https://arxiv.org/pdf/2502.08643), [Website](https://iker-robot.github.io), [Code](https://github.com/shivanshpatel35/IKER))
+
+* **[2024-02]** Learning a High-quality Robotic Wiping Policy Using Systematic Reward Analysis and Visual-Language Model Based Curriculum. ([Paper](https://arxiv.org/abs/2502.12599))
+
+* **[2024-02]** Offline Actor-Critic Reinforcement Learning Scales to Large Models. ([Paper](https://arxiv.org/abs/2402.05546))
+
+* **[2024-05]** PEAC: Unsupervised Pre-training for Cross-Embodiment Reinforcement Learning. ([Paper](https://arxiv.org/abs/2405.14073), [Website](https://yingchengyang.github.io/ceurl), [Code](https://github.com/thu-ml/CEURL))
+
+* **[2024-07]** Affordance-Guided Reinforcement Learning via Visual Prompting. ([Paper](https://arxiv.org/abs/2407.10341))
+
+* **[2024-09]** FLaRe: Achieving Masterful and Adaptive Robot Policies with Large-Scale Reinforcement Learning Fine-Tuning. ([Paper](https://arxiv.org/abs/2409.16578), [Website](https://robot-flare.github.io), [Code](https://github.com/JiahengHu/FLaRe))
+
+* **[2024-09]** Improving Agent Behaviors with RL Fine-tuning for Autonomous Driving. ([Paper](https://arxiv.org/abs/2409.18343))
+
+* **[2024-10]** Steering Your Generalists: Improving Robotic Foundation Models via Value Guidance. ([Paper](https://arxiv.org/abs/2410.13816), [Website](https://nakamotoo.github.io/V-GPS), [Code](https://github.com/nakamotoo/V-GPS))
+
+* **[2024-10]** GRAPPA: Generalizing and Adapting Robot Policies via Online Agentic Guidance. ([Paper](https://arxiv.org/abs/2410.06473))
+
+* **[2024-12]** Policy Agnostic RL: Offline RL and Online RL Fine-Tuning of Any Class and Backbone. ([Paper](https://arxiv.org/abs/2412.06685), [Website](https://policyagnosticrl.github.io), [Code](https://github.com/MaxSobolMark/PolicyAgnosticRL))
+
+* **[2025-05]** Lifelong Autonomous Improvement of Navigation Foundation Models in the Wild. ([Paper](https://openreview.net/forum?id=vBj5oC60Lk), [Code](https://github.com/kylestach/lifelong-nav-rl))
+
 ### Visual Interaction Prediction
 
+* **[2023-12]** Unleashing large-scale video generative pre-training for visual robot manipulation. ([Paper](https://arxiv.org/abs/2312.13139), [Website](https://gr1-manipulation.github.io), [Code](https://github.com/bytedance/GR-1))
+
+* **[2024-03]** MineDreamer: Learning to Follow Instructions via Chain-of-Imagination for Simulated-World Control. ([Paper](https://arxiv.org/abs/2403.12037), [Website](https://sites.google.com/view/minedreamer/main), [Code](https://github.com/Zhoues/MineDreamer))
+
+* **[2024-06]** Learning Manipulation by Predicting Interaction. ([Paper](https://arxiv.org/abs/2406.00439), [Website](https://opendrivelab.com/MPI), [Code](https://github.com/OpenDriveLab/MPI))
+
+* **[2024-06]** Language-Guided Manipulation with Diffusion Policies and Constrained Inpainting. ([Paper](https://arxiv.org/abs/2406.09767), [Website](https://disco2025.github.io))
+
+* **[2024-07]** VLMPC: Vision-Language Model Predictive Control for Robotic Manipulation. ([Paper](https://arxiv.org/abs/2407.09829), [Code](https://github.com/ppjmchen/vlmpc))
+
+* **[2024-07]** Multimodal Diffusion Transformer: Learning Versatile Behavior from Multimodal Goals. ([Paper](https://arxiv.org/abs/2407.05996), [Website](https://intuitive-robots.github.io/mdt_policy), [Code](https://github.com/intuitive-robots/mdt_policy))
+
+* **[2024-08]** GR-MG: Leveraging Partially-Annotated Data Via Multi-Modal Goal-Conditioned Policy. ([Paper](https://arxiv.org/abs/2408.14368), [Website](https://gr-mg.github.io), [Code](https://github.com/bytedance/GR-MG/tree/main))
+
+* **[2024-10]** Run-time Observation Interventions Make Vision-Language-Action Models More Visually Robust. ([Paper](https://arxiv.org/abs/2410.01971), [Website](https://aasherh.github.io/byovla), [Code](https://github.com/irom-princeton/byovla))
+
+* **[2024-10]** VIP: Vision Instructed Pre-training for Robotic Manipulation. ([Paper](https://arxiv.org/abs/2410.07169), [Website](https://lizhuoling.github.io/VIRT_webpage), [Code](https://github.com/Lizhuoling/VIRT))
+
+* **[2024-10]** Gr-2: A generative video-language-action model with web-scale knowledge for robot manipulation. ([Paper](https://arxiv.org/abs/2410.06158), [Website](https://gr2-manipulation.github.io))
+
+* **[2024-12]** Video Prediction Policy: A Generalist Robot Policy with Predictive Visual Representations. ([Paper](https://arxiv.org/abs/2412.14803), [Website](https://github.com/roboterax/video-prediction-policy), [Code](https://video-prediction-policy.github.io))
+
+* **[2024-12]** Moto: Latent motion token as the bridging language for robot manipulation. ([Paper](https://arxiv.org/abs/2412.04445), [Website](https://chenyi99.github.io/moto), [Code](https://github.com/TencentARC/Moto))
+
+* **[2024-12]** Predictive inverse dynamics models are scalable learners for robotic manipulation. ([Paper](https://arxiv.org/abs/2412.15109), [Website](https://nimolty.github.io/Seer), [Code](https://github.com/OpenRobotLab/Seer))
+
+* **[2025-01]** UP-VLA: A Unified Understanding and Prediction Model for Embodied Agent. ([Paper](https://arxiv.org/abs/2501.18867))
+
+* **[2025-02]** HAMSTER: Hierarchical Action Models For Open-World Robot Manipulation. ([Paper](https://arxiv.org/abs/2502.05485), [Website](https://hamster-robot.github.io), [Code](https://github.com/liyi14/HAMSTER_beta))
+
+* **[2025-03]** Unified Video Action Model. ([Paper](https://arxiv.org/abs/2503.00200), [Website](https://unified-video-action-model.github.io), [Code](https://github.com/ShuangLI59/unified_video_action))
+
+* **[2025-04]** Vision-Language Model Predictive Control for Manipulation Planning and Trajectory Generation. ([Paper](https://arxiv.org/abs/2504.05225), [Code](https://github.com/ppjmchen/vlmpc))
+
 ### Data-effective Fine-tuning
+
+* **[2024-01]** SWBT: Similarity Weighted Behavior Transformer with the Imperfect Demonstration for Robotic Manipulation. ([Paper](https://arxiv.org/abs/2401.08957))
+
+* **[2024-02]** Transductive Active Learning: Theory and Applications. ([Paper](https://arxiv.org/abs/2402.15898), [Code](https://github.com/jonhue/transductive-active-learning))
+
+* **[2024-03]** Efficient Data Collection for Robotic Manipulation via Compositional Generalization. ([Paper](https://arxiv.org/abs/2403.05110))
+
+* **[2024-07]** Autonomous Improvement of Instruction Following Skills via Foundation Models. ([Paper](https://arxiv.org/abs/2407.20635), [Website](https://auto-improvement.github.io), [Code](https://github.com/rail-berkeley/soar))
+
+* **[2024-10]** Active Fine-Tuning of Generalist Policies. ([Paper](https://arxiv.org/abs/2410.05026))
+
+* **[2024-10]** Data Scaling Laws in Imitation Learning for Robotic Manipulation. ([Paper](https://arxiv.org/abs/2410.18647), [Website](https://data-scaling-laws.github.io), [Code](https://github.com/Fanqi-Lin/Data-Scaling-Laws))
+
+* **[2025-02]** RoboBERT: An End-to-end Multimodal Robotic Manipulation Model. ([Paper](https://arxiv.org/abs/2502.07837))
+
+* **[2025-02]** DexVLA: Vision-Language Model with Plug-In Diffusion Expert for General Robot Control. ([Paper](https://arxiv.org/abs/2502.05855), [Website](https://dex-vla.github.io), [Code](https://github.com/juruobenruo/DexVLA))
+
+* **[2025-03]** DataPlatter: Boosting Robotic Manipulation Generalization with Minimal Costly Data. ([Paper](https://arxiv.org/abs/2503.19516))
 
 ---
 
