@@ -235,8 +235,6 @@ Integrating various subsystems is essential for building robust embodied agents.
 
 * **[2024-09]** FLaRe: Achieving Masterful and Adaptive Robot Policies with Large-Scale Reinforcement Learning Fine-Tuning. ([Paper](https://arxiv.org/abs/2409.16578), [Website](https://robot-flare.github.io), [Code](https://github.com/JiahengHu/FLaRe))
 
-* **[2024-09]** Improving Agent Behaviors with RL Fine-tuning for Autonomous Driving. ([Paper](https://arxiv.org/abs/2409.18343))
-
 * **[2024-10]** Steering Your Generalists: Improving Robotic Foundation Models via Value Guidance. ([Paper](https://arxiv.org/abs/2410.13816), [Website](https://nakamotoo.github.io/V-GPS), [Code](https://github.com/nakamotoo/V-GPS))
 
 * **[2024-10]** GRAPPA: Generalizing and Adapting Robot Policies via Online Agentic Guidance. ([Paper](https://arxiv.org/abs/2410.06473))
