@@ -131,7 +131,7 @@ Here we focus on helping agents better understand their own physical structure a
 
 ### Action Head Designing
 
-* **[2023-10]** TAIL: Task-specific Adapters for Imitation Learning with Large Pretrained Models. ([Paper](https://arxiv.org/pdf/2310.05905))
+* **[2023-10]** TAIL: Task-specific Adapters for Imitation Learning with Large Pretrained Models. ([Paper](https://arxiv.org/abs/2310.05905))
 
 * **[2024-05]** FLOWER: Democratizing Generalist Robot Policies with Efficient Vision-Language-Action Flow Policies. ([Paper](https://openreview.net/forum?id=ifo8oWSLSq))
 
@@ -139,13 +139,13 @@ Here we focus on helping agents better understand their own physical structure a
 
 * **[2024-08]** Bidirectional Decoding: Improving Action Chunking via Closed-Loop Resampling. ([Paper](https://arxiv.org/abs/2408.17355), [Website](https://bid-robot.github.io), [Code](https://github.com/YuejiangLIU/bid_diffusion))
 
-* **[2024-09]** Scaling Proprioceptive-Visual Learning with Heterogeneous Pre-trained Transformers. ([Paper](https://arxiv.org/pdf/2409.20537))
+* **[2024-09]** Scaling Proprioceptive-Visual Learning with Heterogeneous Pre-trained Transformers. ([Paper](https://arxiv.org/abs/2409.20537))
 
 * **[2024-10]** Vision-Language-Action Model and Diffusion Policy Switching Enables Dexterous Control of an Anthropomorphic Hand. ([Paper](https://arxiv.org/abs/2410.14022))
 
 * **[2025-01]** FAST: Efficient Action Tokenization for Vision-Language-Action Models. ([Paper](https://arxiv.org/abs/2501.09747), [Website](https://www.physicalintelligence.company/research/fast))
 
-* **[2025-01]** Universal Actions for Enhanced Embodied Foundation Models. ([Paper](https://arxiv.org/pdf/2501.10105), [Website](https://2toinf.github.io/UniAct/?utm_source=tldrai), [Code](https://github.com/2toinf/UniAct))
+* **[2025-01]** Universal Actions for Enhanced Embodied Foundation Models. ([Paper](https://arxiv.org/abs/2501.10105), [Website](https://2toinf.github.io/UniAct/?utm_source=tldrai), [Code](https://github.com/2toinf/UniAct))
 
 * **[2025-03]** Accelerating Vision-Language-Action Model Integrated with Action Chunking via Parallel Decoding. ([Paper](https://arxiv.org/abs/2503.02310))
 
@@ -153,7 +153,7 @@ Here we focus on helping agents better understand their own physical structure a
 
 * **[2025-03]** HybridVLA: Collaborative Diffusion and Autoregression in a Unified Vision-Language-Action Model. ([Paper](https://arxiv.org/abs/2503.10631), [Website](https://hybrid-vla.github.io), [Code](https://github.com/PKU-HMI-Lab/Hybrid-VLA))
 
-* **[2025-03]** Efficient Continual Adaptation of Pretrained Robotic Policy with Online Meta-Learned Adapters. ([Paper](https://arxiv.org/pdf/2503.18684))
+* **[2025-03]** Efficient Continual Adaptation of Pretrained Robotic Policy with Online Meta-Learned Adapters. ([Paper](https://arxiv.org/abs/2503.18684))
 
 * **[2025-03]** Dita: Scaling Diffusion Transformer for Generalist Vision-Language-Action Policy. ([Paper](https://arxiv.org/abs/2503.19757), [Website](https://robodita.github.io), [Code](https://github.com/RoboDita/Dita))
 
@@ -223,7 +223,7 @@ Integrating various subsystems is essential for building robust embodied agents.
 
 * **[2024-02]** ConRFT: A Reinforced Fine-tuning Method for VLA Models via Consistency Policy. ([Paper](https://arxiv.org/abs/2502.05450), [Website](https://cccedric.github.io/conrft), [Code](https://github.com/cccedric/conrft))
 
-* **[2024-02]** A Real-to-Sim-to-Real Approach to Robotic Manipulation with VLM-Generated Iterative Keypoint Rewards. ([Paper](https://arxiv.org/pdf/2502.08643), [Website](https://iker-robot.github.io), [Code](https://github.com/shivanshpatel35/IKER))
+* **[2024-02]** A Real-to-Sim-to-Real Approach to Robotic Manipulation with VLM-Generated Iterative Keypoint Rewards. ([Paper](https://arxiv.org/abs/2502.08643), [Website](https://iker-robot.github.io), [Code](https://github.com/shivanshpatel35/IKER))
 
 * **[2024-02]** Learning a High-quality Robotic Wiping Policy Using Systematic Reward Analysis and Visual-Language Model Based Curriculum. ([Paper](https://arxiv.org/abs/2502.12599))
 
