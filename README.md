@@ -57,6 +57,8 @@ This section explores methods that improve an agent’s ability to perceive and 
 
 * **[2024-06]** A3VLM: Actionable Articulation-Aware Vision Language Model. ([Paper](https://arxiv.org/abs/2406.07549), [Code](https://github.com/changhaonan/A3VLM))
 
+* **[2024-06]** RoboPoint: A Vision-Language Model for Spatial Affordance Prediction for Robotics. ([Paper](https://arxiv.org/abs/2406.10721), [Website](https://robo-point.github.io), [Code](https://github.com/wentaoyuan/RoboPoint))
+
 * **[2024-11]** RT-Affordance: Affordances are Versatile Intermediate Representations for Robot Manipulation. ([Paper](https://arxiv.org/abs/2411.02704), [Website](https://snasiriany.me/rt-affordance))
 
 * **[2024-12]** Improving Vision-Language-Action Models via Chain-of-Affordance. ([Paper](https://arxiv.org/abs/2412.20451))
@@ -86,6 +88,8 @@ This section explores methods that improve an agent’s ability to perceive and 
 * **[2025-02]** ChatVLA: Unified Multimodal Understanding and Robot Control with Vision-Language-Action Model. ([Paper](https://arxiv.org/abs/2502.14420))
 
 * **[2025-03]** MoLe-VLA: Dynamic Layer-skipping Vision Language Action Model via Mixture-of-Layers for Efficient Robot Manipulation. ([Paper](https://arxiv.org/abs/2503.20384))
+
+* **[2025-03]** A Data-Centric Revisit of Pre-Trained Vision Models for Robot Learning. ([Paper](https://arxiv.org/abs/2503.06960), [Code](https://github.com/CVMI-Lab/SlotMIM))
 
 ### Enhanced Representation for Manipulation
 
@@ -131,7 +135,7 @@ Here we focus on helping agents better understand their own physical structure a
 
 ### Action Head Designing
 
-* **[2023-10]** TAIL: Task-specific Adapters for Imitation Learning with Large Pretrained Models. ([Paper](https://arxiv.org/abs/2310.05905))
+* **[2023-10]** TAIL: Task-specific Adapters for Imitation Learning with Large Pretrained Models. ([Paper](https://arxiv.org/pdf/2310.05905))
 
 * **[2024-05]** FLOWER: Democratizing Generalist Robot Policies with Efficient Vision-Language-Action Flow Policies. ([Paper](https://openreview.net/forum?id=ifo8oWSLSq))
 
@@ -139,13 +143,15 @@ Here we focus on helping agents better understand their own physical structure a
 
 * **[2024-08]** Bidirectional Decoding: Improving Action Chunking via Closed-Loop Resampling. ([Paper](https://arxiv.org/abs/2408.17355), [Website](https://bid-robot.github.io), [Code](https://github.com/YuejiangLIU/bid_diffusion))
 
-* **[2024-09]** Scaling Proprioceptive-Visual Learning with Heterogeneous Pre-trained Transformers. ([Paper](https://arxiv.org/abs/2409.20537))
+* **[2024-09]** Scaling Proprioceptive-Visual Learning with Heterogeneous Pre-trained Transformers. ([Paper](https://arxiv.org/pdf/2409.20537))
 
 * **[2024-10]** Vision-Language-Action Model and Diffusion Policy Switching Enables Dexterous Control of an Anthropomorphic Hand. ([Paper](https://arxiv.org/abs/2410.14022))
 
 * **[2025-01]** FAST: Efficient Action Tokenization for Vision-Language-Action Models. ([Paper](https://arxiv.org/abs/2501.09747), [Website](https://www.physicalintelligence.company/research/fast))
 
-* **[2025-01]** Universal Actions for Enhanced Embodied Foundation Models. ([Paper](https://arxiv.org/abs/2501.10105), [Website](https://2toinf.github.io/UniAct/?utm_source=tldrai), [Code](https://github.com/2toinf/UniAct))
+* **[2025-01]** Universal Actions for Enhanced Embodied Foundation Models. ([Paper](https://arxiv.org/pdf/2501.10105), [Website](https://2toinf.github.io/UniAct/?utm_source=tldrai), [Code](https://github.com/2toinf/UniAct))
+
+* **[2025-02]** Fine-tuning vision-language-action models: Optimizing speed and success. ([Paper](https://arxiv.org/abs/2502.19645), [Website](https://openvla-oft.github.io), [Code](https://github.com/moojink/openvla-oft))
 
 * **[2025-03]** Accelerating Vision-Language-Action Model Integrated with Action Chunking via Parallel Decoding. ([Paper](https://arxiv.org/abs/2503.02310))
 
@@ -153,7 +159,7 @@ Here we focus on helping agents better understand their own physical structure a
 
 * **[2025-03]** HybridVLA: Collaborative Diffusion and Autoregression in a Unified Vision-Language-Action Model. ([Paper](https://arxiv.org/abs/2503.10631), [Website](https://hybrid-vla.github.io), [Code](https://github.com/PKU-HMI-Lab/Hybrid-VLA))
 
-* **[2025-03]** Efficient Continual Adaptation of Pretrained Robotic Policy with Online Meta-Learned Adapters. ([Paper](https://arxiv.org/abs/2503.18684))
+* **[2025-03]** Efficient Continual Adaptation of Pretrained Robotic Policy with Online Meta-Learned Adapters. ([Paper](https://arxiv.org/pdf/2503.18684))
 
 * **[2025-03]** Dita: Scaling Diffusion Transformer for Generalist Vision-Language-Action Policy. ([Paper](https://arxiv.org/abs/2503.19757), [Website](https://robodita.github.io), [Code](https://github.com/RoboDita/Dita))
 
@@ -207,7 +213,7 @@ This section covers methods that enable agents to better understand and generali
 
 ## :wrench: Multiple Component Integration
 
-Integrating various subsystems is essential for building robust embodied agents. This section includes **reinforcement learning frameworks** for continuous control and decision-making, **visual interaction prediction** for anticipating future outcomes based on perception, and strategies for **data-efficient fine-tuning** to reduce the cost of adapting models to new environments or tasks.
+Integrating various subsystems is essential for building robust embodied agents. This section includes **reinforcement learning frameworks** for continuous control and decision-making, **visual interaction prediction** for anticipating future outcomes based on perception, and strategies for **active dataset processing** to reduce the cost of adapting models to new environments or tasks.
 
 ### Reinforcement Learning
 
@@ -223,7 +229,7 @@ Integrating various subsystems is essential for building robust embodied agents.
 
 * **[2024-02]** ConRFT: A Reinforced Fine-tuning Method for VLA Models via Consistency Policy. ([Paper](https://arxiv.org/abs/2502.05450), [Website](https://cccedric.github.io/conrft), [Code](https://github.com/cccedric/conrft))
 
-* **[2024-02]** A Real-to-Sim-to-Real Approach to Robotic Manipulation with VLM-Generated Iterative Keypoint Rewards. ([Paper](https://arxiv.org/abs/2502.08643), [Website](https://iker-robot.github.io), [Code](https://github.com/shivanshpatel35/IKER))
+* **[2024-02]** A Real-to-Sim-to-Real Approach to Robotic Manipulation with VLM-Generated Iterative Keypoint Rewards. ([Paper](https://arxiv.org/pdf/2502.08643), [Website](https://iker-robot.github.io), [Code](https://github.com/shivanshpatel35/IKER))
 
 * **[2024-02]** Learning a High-quality Robotic Wiping Policy Using Systematic Reward Analysis and Visual-Language Model Based Curriculum. ([Paper](https://arxiv.org/abs/2502.12599))
 
@@ -235,13 +241,19 @@ Integrating various subsystems is essential for building robust embodied agents.
 
 * **[2024-09]** FLaRe: Achieving Masterful and Adaptive Robot Policies with Large-Scale Reinforcement Learning Fine-Tuning. ([Paper](https://arxiv.org/abs/2409.16578), [Website](https://robot-flare.github.io), [Code](https://github.com/JiahengHu/FLaRe))
 
+* **[2024-09]** Improving Agent Behaviors with RL Fine-tuning for Autonomous Driving. ([Paper](https://arxiv.org/abs/2409.18343))
+
 * **[2024-10]** Steering Your Generalists: Improving Robotic Foundation Models via Value Guidance. ([Paper](https://arxiv.org/abs/2410.13816), [Website](https://nakamotoo.github.io/V-GPS), [Code](https://github.com/nakamotoo/V-GPS))
 
 * **[2024-10]** GRAPPA: Generalizing and Adapting Robot Policies via Online Agentic Guidance. ([Paper](https://arxiv.org/abs/2410.06473))
 
 * **[2024-12]** Policy Agnostic RL: Offline RL and Online RL Fine-Tuning of Any Class and Backbone. ([Paper](https://arxiv.org/abs/2412.06685), [Website](https://policyagnosticrl.github.io), [Code](https://github.com/MaxSobolMark/PolicyAgnosticRL))
 
+* **[2025-01]** FDPP: Fine-tune Diffusion Policy with Human Preference. ([Paper](https://arxiv.org/abs/2501.08259))
+
 * **[2025-05]** Lifelong Autonomous Improvement of Navigation Foundation Models in the Wild. ([Paper](https://openreview.net/forum?id=vBj5oC60Lk), [Code](https://github.com/kylestach/lifelong-nav-rl))
+
+* **[2025-05]** What Can RL Bring to VLA Generalization? An Empirical Study. ([Paper](https://arxiv.org/abs/2505.19789), [Website](https://rlvla.github.io), [Code](https://github.com/gen-robot/RL4VLA))
 
 ### Visual Interaction Prediction
 
@@ -279,13 +291,17 @@ Integrating various subsystems is essential for building robust embodied agents.
 
 * **[2025-04]** Vision-Language Model Predictive Control for Manipulation Planning and Trajectory Generation. ([Paper](https://arxiv.org/abs/2504.05225), [Code](https://github.com/ppjmchen/vlmpc))
 
-### Data-effective Fine-tuning
+### Active Dataset Processing
+
+* **[2023-11]** RoboGen: Towards Unleashing Infinite Data for Automated Robot Learning via Generative Simulation. ([Paper](https://arxiv.org/abs/2311.01455), [Website](https://robogen-ai.github.io), [Code](https://github.com/Genesis-Embodied-AI/RoboGen))
 
 * **[2024-01]** SWBT: Similarity Weighted Behavior Transformer with the Imperfect Demonstration for Robotic Manipulation. ([Paper](https://arxiv.org/abs/2401.08957))
 
 * **[2024-02]** Transductive Active Learning: Theory and Applications. ([Paper](https://arxiv.org/abs/2402.15898), [Code](https://github.com/jonhue/transductive-active-learning))
 
 * **[2024-03]** Efficient Data Collection for Robotic Manipulation via Compositional Generalization. ([Paper](https://arxiv.org/abs/2403.05110))
+
+* **[2024-06]** RVT-2: Learning Precise Manipulation from Few Demonstrations. ([Paper](https://arxiv.org/abs/2406.08545), [Website](https://robotic-view-transformer-2.github.io), [Code](https://github.com/nvlabs/rvt))
 
 * **[2024-07]** Autonomous Improvement of Instruction Following Skills via Foundation Models. ([Paper](https://arxiv.org/abs/2407.20635), [Website](https://auto-improvement.github.io), [Code](https://github.com/rail-berkeley/soar))
 
@@ -296,6 +312,8 @@ Integrating various subsystems is essential for building robust embodied agents.
 * **[2025-02]** RoboBERT: An End-to-end Multimodal Robotic Manipulation Model. ([Paper](https://arxiv.org/abs/2502.07837))
 
 * **[2025-02]** DexVLA: Vision-Language Model with Plug-In Diffusion Expert for General Robot Control. ([Paper](https://arxiv.org/abs/2502.05855), [Website](https://dex-vla.github.io), [Code](https://github.com/juruobenruo/DexVLA))
+
+* **[2025-02]** DemoGen: Synthetic Demonstration Generation for Data-Efficient Visuomotor Policy Learning. ([Paper](https://arxiv.org/abs/2502.16932), [Website](https://demo-generation.github.io), [Code](https://github.com/TEA-Lab/DemoGen))
 
 * **[2025-03]** DataPlatter: Boosting Robotic Manipulation Generalization with Minimal Costly Data. ([Paper](https://arxiv.org/abs/2503.19516))
 
