@@ -1,19 +1,19 @@
-# :bookmark: Awesome-Embodied-AI-Tuning
+# :bookmark: Awesome-VLA-Post-Training
 
-**Awesome-Embodied-AI-Tuning** is a continuously updated collection of cutting-edge resources focused on **tuning embodied AI systems**. As embodied AI experiences rapid growth, this repository serves as a centralized hub for research updates, practical codes, and implementation insights. Our goal is to enhance the ability of AI agents to perceive, reason, and act within physical environments. Key focus areas include:
+**Awesome-VLA-Post-Training** is a continuously updated collection of cutting-edge resources focused on the **post-training of VLA systems**. As embodied AI experiences rapid growth, this repository serves as a centralized hub for research updates, practical codes, and implementation insights. Our goal is to enhance the ability of VLA agents to perceive, reason, and act within physical environments. Key focus areas include:
 
 * :earth_asia: **Enhancing environmental perception**
 * :brain: **Improving embodiment awareness**
 * :memo: **Deepening task comprehension and generalization**
 * :wrench: **Integrating and tuning multiple components**
 
-We welcome contributions from researchers and practitioners passionate about advancing generative embodied intelligence. Join us in building a structured, high-quality resource for the community!
+We welcome contributions from researchers and practitioners passionate about advancing VLA systems. Join us in building a structured, high-quality resource for the community!
 
 ---
 
 ## :star: Notable Works
 
-A curated selection of influential papers, benchmarks, and projects that have significantly contributed to the field of generative embodied AI. These works provide foundational insights and state-of-the-art methods that inform current research directions.
+This is a curated selection of influential papers, benchmarks and projects that have made a significant contribution to the field of VLA systems. These works provide foundational insights and state-of-the-art methods that inform current research directions.
 
 * **[2022-12]** RT-1: Robotics Transformer for real-world control at scale. ([Paper](https://arxiv.org/abs/2212.06817), [Website](https://robotics-transformer1.github.io), [Code](https://github.com/google-research/robotics_transformer))
 
@@ -215,7 +215,7 @@ This section covers methods that enable agents to better understand and generali
 
 ## :wrench: Multiple Component Integration
 
-Integrating various subsystems is essential for building robust embodied agents. This section includes **reinforcement learning frameworks** for continuous control and decision-making, **visual interaction prediction** for anticipating future outcomes based on perception, and strategies for **active dataset processing** to reduce the cost of adapting models to new environments or tasks.
+Integrating various subsystems is essential for building robust VLA agents. This section includes **reinforcement learning frameworks** for continuous control and decision-making, **visual interaction prediction** for anticipating future outcomes based on perception, and strategies for **active dataset processing** to reduce the cost of adapting models to new environments or tasks.
 
 ### Reinforcement Learning
 
@@ -333,10 +333,10 @@ To cite this repository in your research, please use the following BibTeX entry:
 
 ```bibtex
 @misc{awesome_embodied_ai_tuning,
-  title       = {Awesome-Embodied-AI-Tuning},
+  title       = {Awesome-VLA-Post-Training},
   author      = {Contributors},
   year        = {2025},
-  howpublished= {\url{https://github.com/AoqunJin/Awesome-Embodied-AI-Tuning}},
-  note        = {A curated list of resources for tuning and enhancing embodied AI systems}
+  howpublished= {\url{https://github.com/AoqunJin/Awesome-VLA-Post-Training}},
+  note        = {A collection of VLA post-training methods}
 }
 ```
