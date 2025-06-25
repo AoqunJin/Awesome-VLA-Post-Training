@@ -43,6 +43,8 @@ A curated selection of influential papers, benchmarks, and projects that have si
 
 * **[2025-05]** UniVLA: Learning to Act Anywhere with Task-centric Latent Actions. ([Paper](https://arxiv.org/abs/2505.06111), [Code](https://github.com/OpenDriveLab/UniVLA))
 
+* **[2025-06]** SmolVLA: A Vision-Language-Action Model for Affordable and Efficient Robotics. ([Paper](https://arxiv.org/abs/2506.01844), [Code](https://github.com/huggingface/lerobot))
+
 ---
 
 ## :earth_asia: Enhancing Environmental Perception
