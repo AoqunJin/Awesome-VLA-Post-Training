@@ -9,7 +9,7 @@
 
 We welcome contributions from researchers and practitioners passionate about advancing VLA systems. Join us in building a structured, high-quality resource for the community!
 
-* **[2025-6]** Our paper, “Parallels Between VLA Model Post-Training and Human Motor Learning: Progress, Challenges, and Trends,” is now publicly available. ([Paper](https://arxiv.org/abs/2506.20966))
+* **[2025-6]** :fire: Our paper, “Parallels Between VLA Model Post-Training and Human Motor Learning: Progress, Challenges, and Trends,” is now publicly available. ([Paper](https://arxiv.org/abs/2506.20966))
 
 ---
 
