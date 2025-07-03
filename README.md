@@ -119,6 +119,8 @@ This section explores methods that improve an agent’s ability to perceive and 
 
 * **[2025-05]** VTLA: Vision-Tactile-Language-Action Model with Preference Learning for Insertion Manipulation. ([Paper](https://arxiv.org/abs/2505.09577), [Website](https://sites.google.com/view/vtla))
 
+* **[2025-06]** BridgeVLA: Input-Output Alignment for Efficient 3D Manipulation Learning with Vision-Language Models. ([Paper](https://www.arxiv.org/abs/2506.07961), [Website](https://bridgevla.github.io), [Code](https://github.com/BridgeVLA/BridgeVLA))
+
 ---
 
 ## :brain: Improving Embodiment Awareness
