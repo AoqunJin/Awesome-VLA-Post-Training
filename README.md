@@ -259,6 +259,10 @@ Integrating various subsystems is essential for building robust VLA agents. This
 
 * **[2025-05]** What Can RL Bring to VLA Generalization? An Empirical Study. ([Paper](https://arxiv.org/abs/2505.19789), [Website](https://rlvla.github.io), [Code](https://github.com/gen-robot/RL4VLA))
 
+* **[2025-05]** VLA-RL: Towards Masterful and General Robotic Manipulation with Scalable Reinforcement Learning. ([Paper](https://arxiv.org/abs/2505.18719), [Code](https://github.com/GuanxingLu/vlarl))
+
+* **[2025-05]** Interactive Post-Training for Vision-Language-Action Models. ([Paper](https://arxiv.org/abs/2505.17016), [Website](https://ariostgx.github.io/ript_vla), [Code](https://github.com/Ariostgx/ript-vla))
+
 ### Visual Interaction Prediction
 
 * **[2023-12]** Unleashing large-scale video generative pre-training for visual robot manipulation. ([Paper](https://arxiv.org/abs/2312.13139), [Website](https://gr1-manipulation.github.io), [Code](https://github.com/bytedance/GR-1))
