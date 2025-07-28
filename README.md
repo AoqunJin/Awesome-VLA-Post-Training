@@ -301,6 +301,10 @@ Integrating various subsystems is essential for building robust VLA agents. This
 
 * **[2025-04]** Vision-Language Model Predictive Control for Manipulation Planning and Trajectory Generation. ([Paper](https://arxiv.org/abs/2504.05225), [Code](https://github.com/ppjmchen/vlmpc))
 
+* **[2025-07]** DreamVLA: A Vision-Language-Action Model Dreamed with Comprehensive World Knowledge. ([Paper](https://arxiv.org/abs/2507.04447), [Website](https://zhangwenyao1.github.io/DreamVLA), [Code](https://github.com/Zhangwenyao1/DreamVLA))
+
+* **[2025-07]** EgoVLA: Learning Vision-Language-Action Models from Egocentric Human Videos. ([Paper](https://arxiv.org/abs/2507.12440), [Website](https://rchalyang.github.io/EgoVLA))
+
 ### Active Dataset Processing
 
 * **[2023-11]** RoboGen: Towards Unleashing Infinite Data for Automated Robot Learning via Generative Simulation. ([Paper](https://arxiv.org/abs/2311.01455), [Website](https://robogen-ai.github.io), [Code](https://github.com/Genesis-Embodied-AI/RoboGen))
