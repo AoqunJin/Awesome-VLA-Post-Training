@@ -265,6 +265,12 @@ Integrating various subsystems is essential for building robust VLA agents. This
 
 * **[2025-05]** Interactive Post-Training for Vision-Language-Action Models. ([Paper](https://arxiv.org/abs/2505.17016), [Website](https://ariostgx.github.io/ript_vla), [Code](https://github.com/Ariostgx/ript-vla))
 
+* **[2025-06]** Inference-Time Alignment via Hypothesis Reweighting. ([Paper](https://openreview.net/forum?id=tl2nXqQSQJ))
+
+* **[2025-07]** Behavioral Exploration: Learning to Explore via In-Context Adaptation. ([Paper](https://arxiv.org/abs/2507.09041))
+
+* **[2025-07]** Reinforcement Learning with Action Chunking. ([Paper](https://arxiv.org/abs/2507.07969))
+
 ### Visual Interaction Prediction
 
 * **[2023-12]** Unleashing large-scale video generative pre-training for visual robot manipulation. ([Paper](https://arxiv.org/abs/2312.13139), [Website](https://gr1-manipulation.github.io), [Code](https://github.com/bytedance/GR-1))
