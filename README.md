@@ -75,6 +75,8 @@ This section explores methods that improve an agent’s ability to perceive and 
 
 * **[2025-04]** ControlManip: Few-Shot Manipulation Fine-tuning via Object-centric Conditional Control. ([Paper](https://openreview.net/forum?id=3LvTtj0VYy))
 
+* **[2025-07]** VLA-OS: Structuring and Dissecting Planning Representations and Paradigms in Vision-Language-Action Models. ([Paper](https://arxiv.org/abs/2506.17561))
+
 ### Enhanced Encoder for Manipulation
 
 * **[2024-02]** Task-conditioned adaptation of visual features in multi-task policy learning. ([Paper](https://arxiv.org/abs/2402.07739), [Website](https://pierremarza.github.io/projects/task_conditioned_adaptation), [Code](https://github.com/PierreMarza/task_conditioned_adaptation))
@@ -94,6 +96,8 @@ This section explores methods that improve an agent’s ability to perceive and 
 * **[2025-03]** MoLe-VLA: Dynamic Layer-skipping Vision Language Action Model via Mixture-of-Layers for Efficient Robot Manipulation. ([Paper](https://arxiv.org/abs/2503.20384))
 
 * **[2025-03]** A Data-Centric Revisit of Pre-Trained Vision Models for Robot Learning. ([Paper](https://arxiv.org/abs/2503.06960), [Code](https://github.com/CVMI-Lab/SlotMIM))
+
+* **[2025-08]** GeoVLA: Empowering 3D Representations in Vision-Language-Action Models. ([Website](https://linsun449.github.io/GeoVLA))
 
 ### Enhanced Representation for Manipulation
 
@@ -304,6 +308,8 @@ Integrating various subsystems is essential for building robust VLA agents. This
 * **[2025-02]** HAMSTER: Hierarchical Action Models For Open-World Robot Manipulation. ([Paper](https://arxiv.org/abs/2502.05485), [Website](https://hamster-robot.github.io), [Code](https://github.com/liyi14/HAMSTER_beta))
 
 * **[2025-03]** Unified Video Action Model. ([Paper](https://arxiv.org/abs/2503.00200), [Website](https://unified-video-action-model.github.io), [Code](https://github.com/ShuangLI59/unified_video_action))
+
+* **[2025-03]** DyWA: Dynamics-adaptive World Action Model for Generalizable Non-prehensile Manipulation. ([Paper](https://arxiv.org/abs/2503.16806), [Website](https://pku-epic.github.io/DyWA), [Code](https://github.com/jiangranlv/DyWA))
 
 * **[2025-04]** Vision-Language Model Predictive Control for Manipulation Planning and Trajectory Generation. ([Paper](https://arxiv.org/abs/2504.05225), [Code](https://github.com/ppjmchen/vlmpc))
 
