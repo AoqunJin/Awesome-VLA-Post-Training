@@ -77,6 +77,8 @@ This section explores methods that improve an agent’s ability to perceive and 
 
 * **[2025-07]** VLA-OS: Structuring and Dissecting Planning Representations and Paradigms in Vision-Language-Action Models. ([Paper](https://arxiv.org/abs/2506.17561))
 
+* **[2025-07]** InstructVLA: Vision-Language-Action Instruction Tuning from Understanding to Manipulation. ([Paper](https://arxiv.org/abs/2507.17520), [Website](https://yangs03.github.io/InstructVLA_Home), [Code](https://github.com/InternRobotics/InstructVLA))
+
 ### Enhanced Encoder for Manipulation
 
 * **[2024-02]** Task-conditioned adaptation of visual features in multi-task policy learning. ([Paper](https://arxiv.org/abs/2402.07739), [Website](https://pierremarza.github.io/projects/task_conditioned_adaptation), [Code](https://github.com/PierreMarza/task_conditioned_adaptation))
