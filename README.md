@@ -358,11 +358,10 @@ We welcome contributions from the community! Whether it's adding new papers, sha
 To cite this repository in your research, please use the following BibTeX entry:
 
 ```bibtex
-@misc{awesome_embodied_ai_tuning,
-  title       = {Awesome-VLA-Post-Training},
-  author      = {Contributors},
-  year        = {2025},
-  howpublished= {\url{https://github.com/AoqunJin/Awesome-VLA-Post-Training}},
-  note        = {A collection of VLA post-training methods}
+@article{xiang2025parallels,
+  title={Parallels Between VLA Model Post-Training and Human Motor Learning: Progress, Challenges, and Trends},
+  author={Xiang, Tian-Yu and Jin, Ao-Qun and Zhou, Xiao-Hu and Gui, Mei-Jiang and Xie, Xiao-Liang and Liu, Shi-Qi and Wang, Shuang-Yi and Duan, Sheng-Bin and Xie, Fu-Chao and Wang, Wen-Kai and others},
+  journal={arXiv preprint arXiv:2506.20966},
+  year={2025}
 }
 ```
