@@ -56,7 +56,9 @@ This is a curated selection of influential papers, benchmarks and projects that 
 
 ---
 
-## Benchmark
+## :triangular_ruler: Benchmark
+
+LIBERO and Calvin, two widely used simulation environments, along with several validated Vision-Language-Action models, are summarized below.
 
 ### LIBERO
 
@@ -65,6 +67,8 @@ This is a curated selection of influential papers, benchmarks and projects that 
 ### Calvin
 
 ![Calvin](assets/Calvin.png)
+
+---
 
 ## :earth_asia: Enhancing Environmental Perception
 
