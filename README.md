@@ -137,6 +137,8 @@ This section explores methods that improve an agent’s ability to perceive and 
 
 * **[2025-08]** GeoVLA: Empowering 3D Representations in Vision-Language-Action Models. ([Paper](https://arxiv.org/abs/2508.09071), [Website](https://linsun449.github.io/GeoVLA))
 
+* **[2026-02]** ABot-M0: VLA Foundation Model for Robotic Manipulation with Action Manifold Learning. ([Paper](https://https://arxiv.org/abs/2602.11236), [Website](https://amap-cvlab.github.io/ABot-Manipulation), [Code](https://github.com/amap-cvlab/ABot-Manipulation))
+
 ### Enhanced Representation for Manipulation
 
 * **[2024-02]** Vision-Language Models Provide Promptable Representations for Reinforcement Learning. ([Paper](https://arxiv.org/abs/2402.02651), [Website](https://pr2l.github.io), [Code](https://github.com/pr2l/pr2l.github.io/blob/master/static/notebooks/PR2LExample.ipynb))
@@ -244,6 +246,8 @@ Here we focus on helping agents better understand their own physical structure a
 * **[2025-07]** VQ-VLA: Improving Vision-Language-Action Models via Scaling Vector-Quantized Action Tokenizers. ([Paper](https://arxiv.org/abs/2507.01016), [Website](https://xiaoxiao0406.github.io/vqvla.github.io), [Code](https://github.com/xiaoxiao0406/VQ-VLA))
 
 * **[2025-08]** Discrete Diffusion VLA: Bringing Discrete Diffusion to Action Decoding in Vision-Language-Action Policies. ([Paper](https://arxiv.org/abs/2508.20072))
+
+* **[2026-02]** ABot-M0: VLA Foundation Model for Robotic Manipulation with Action Manifold Learning. ([Paper](https://https://arxiv.org/abs/2602.11236), [Website](https://amap-cvlab.github.io/ABot-Manipulation), [Code](https://github.com/amap-cvlab/ABot-Manipulation))
 
 ---
 
