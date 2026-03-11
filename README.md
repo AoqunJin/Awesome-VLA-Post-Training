@@ -498,6 +498,13 @@ We welcome contributions from the community! Whether it's adding new papers, sha
 
 ---
 
+## 🌟 Contributors
+We sincerely thank the following contributors!
+
+[![Contributors](https://contrib.rocks/image?repo=AoqunJin/Awesome-VLA-Post-Training)](https://github.com/AoqunJin/Awesome-VLA-Post-Training/graphs/contributors)
+
+---
+
 ## :pushpin: BibTeX
 
 To cite this repository in your research, please use the following BibTeX entry:
