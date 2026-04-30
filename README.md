@@ -9,6 +9,7 @@
 
 We welcome contributions from researchers and practitioners passionate about advancing VLA systems. Join us in building a structured, high-quality resource for the community!
 
+* **[2026-4]** :fire: We updated to version v3, adding 100+ new papers.
 * **[2026-2]** :fire: We updated our paper (v2), matching the project updates. ([Paper](https://arxiv.org/abs/2506.20966))
 * **[2025-10]** We updated to version v2, adding 50+ new papers and benchmarks for comparison.
 * **[2025-6]** Our paper, “Parallels Between VLA Model Post-Training and Human Motor Learning: Progress, Challenges, and Trends,” is now publicly available. ([Paper](https://arxiv.org/abs/2506.20966v1))
@@ -23,13 +24,9 @@ This is a curated selection of influential papers, benchmarks and projects that 
 
 * **[2023-07]** RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control. ([Paper](https://arxiv.org/abs/2307.15818), [Website](https://deepmind.google/discover/blog/rt-2-new-model-translates-vision-and-language-into-action))
 
-* **[2024-03]** 3D-VLA: A 3D Vision-Language-Action Generative World Model. ([Paper](https://arxiv.org/abs/2403.09631), [Website](https://vis-www.cs.umass.edu/3dvla), [Code](https://github.com/UMass-Embodied-AGI/3D-VLA))
-
 * **[2024-05]** Octo: An Open-Source Generalist Robot Policy. ([Paper](https://arxiv.org/abs/2405.12213), [Website](https://octo-models.github.io), [Code](https://github.com/octo-models/octo))
 
 * **[2024-06]** OpenVLA: An Open-Source Vision-Language-Action Model. ([Paper](https://arxiv.org/abs/2406.09246), [Website](https://openvla.github.io), [Code](https://github.com/openvla/openvla))
-
-* **[2024-06]** RoboMamba: Efficient Vision-Language-Action Model for Robotic Reasoning and Manipulation. ([Paper](https://arxiv.org/abs/2406.04339), [Website](https://sites.google.com/view/robomamba-web), [Code](https://github.com/lmzpai/roboMamba))
 
 * **[2024-10]** RDT-1B: a Diffusion Foundation Model for Bimanual Manipulation. ([Paper](https://arxiv.org/abs/2410.07864), [Website](https://rdt-robotics.github.io/rdt-robotics), [Code](https://github.com/thu-ml/RoboticsDiffusionTransformer))
 
@@ -37,23 +34,25 @@ This is a curated selection of influential papers, benchmarks and projects that 
 
 * **[2024-10]** GR-2: A Generative Video-Language-Action Model with Web-Scale Knowledge for Robot Manipulation. ([Paper](https://arxiv.org/abs/2410.06158), [Website](https://gr2-manipulation.github.io))
 
-* **[2024-11]** CogACT: A Foundational Vision-Language-Action Model for Synergizing Cognition and Action in Robotic Manipulation. ([Paper](https://arxiv.org/abs/2411.19650), [Website](https://cogact.github.io), [Code](https://github.com/microsoft/CogACT))
-
-* **[2025-03]** Gemini Robotics: Bringing AI into the Physical World. ([Paper](https://arxiv.org/abs/2503.20020), [Website](https://deepmind.google/discover/blog/gemini-robotics-brings-ai-into-the-physical-world))
-
 * **[2025-03]** GR00T N1: An Open Foundation Model for Generalist Humanoid Robots. ([Paper](https://arxiv.org/abs/2503.14734), [Website](https://developer.nvidia.com/isaac/gr00t), [Code](https://github.com/NVIDIA/Isaac-GR00T))
 
-* **[2025-03]** AgiBot World Colosseo: A Large-scale Manipulation Platform for Scalable and Intelligent Embodied Systems. ([Paper](https://arxiv.org/abs/2503.06669), [Website](https://agibot-world.com), [Code](https://github.com/OpenDriveLab/AgiBot-World))
-
 * **[2025-04]** π0.5: a Vision-Language-Action Model with Open-World Generalization. ([Paper](https://arxiv.org/abs/2504.16054), [Website](https://www.physicalintelligence.company/blog/pi05))
-
-* **[2025-05]** UniVLA: Learning to Act Anywhere with Task-centric Latent Actions. ([Paper](https://arxiv.org/abs/2505.06111), [Code](https://github.com/OpenDriveLab/UniVLA))
 
 * **[2025-05]** GraspVLA: a Grasping Foundation Model Pre-trained on Billion-scale Synthetic Action Data. ([Paper](https://arxiv.org/abs/2505.03233), [Website](https://pku-epic.github.io/GraspVLA-web), [Code](https://github.com/PKU-EPIC/GraspVLA))
 
 * **[2025-06]** SmolVLA: A Vision-Language-Action Model for Affordable and Efficient Robotics. ([Paper](https://arxiv.org/abs/2506.01844), [Code](https://github.com/huggingface/lerobot))
 
-* **[2025-07]** GR-3 Technical Report. ([Paper](https://arxiv.org/abs/2507.15493), [Website](https://seed.bytedance.com/GR3))
+* **[2025-10]** GigaBrain-0: A World Model-Powered Vision-Language-Action Model. ([Paper](https://arxiv.org/abs/2510.19430), [Code](https://github.com/open-gigaai/giga-brain-0))
+
+* **[2025-11]** $π^{*}_{0.6}$: a VLA That Learns From Experience. ([Paper](https://arxiv.org/abs/2511.14759), [Website](https://www.pi.website/blog/pistar06))
+
+* **[2026-02]** ABot-M0: VLA Foundation Model for Robotic Manipulation with Action Manifold Learning. ([Paper](https://arxiv.org/abs/2602.11236), [Website](https://amap-cvlab.github.io/ABot-Manipulation), [Code](https://github.com/amap-cvlab/ABot-Manipulation))
+
+* **[2026-02]** DM0: An Embodied-Native Vision-Language-Action Model towards Physical AI. ([Paper](https://arxiv.org/abs/2602.14974), [Code](https://github.com/Dexmal/dexbotic))
+
+* **[2026-04]** $π_{0.7}$: a Steerable Generalist Robotic Foundation Model with Emergent Capabilities. ([Paper](https://arxiv.org/abs/2604.15483), [Website](https://www.pi.website/blog/pi07))
+
+* **[2026-04]** StarVLA: A Lego-like Codebase for Vision-Language-Action Model Developing. ([Paper](https://arxiv.org/abs/2604.05014), [Website](https://starvla.github.io/docs/zh-cn/overview), [Code](https://github.com/starVLA/starVLA))
 
 ---
 
@@ -68,6 +67,10 @@ LIBERO and Calvin, two widely used simulation environments, along with several v
 ### Calvin
 
 ![Calvin](assets/Calvin.png)
+
+### More
+
+For more, you can visit the [SOTA Website](https://sota.evomind-tech.com/).
 
 ---
 
@@ -102,6 +105,18 @@ This section explores methods that improve an agent’s ability to perceive and 
 * **[2025-07]** VLA-OS: Structuring and Dissecting Planning Representations and Paradigms in Vision-Language-Action Models. ([Paper](https://arxiv.org/abs/2506.17561))
 
 * **[2025-07]** InstructVLA: Vision-Language-Action Instruction Tuning from Understanding to Manipulation. ([Paper](https://arxiv.org/abs/2507.17520), [Website](https://yangs03.github.io/InstructVLA_Home), [Code](https://github.com/InternRobotics/InstructVLA))
+
+* **[2025-10]** Learning Affordances at Inference-Time for Vision-Language-Action Models. ([Paper](https://arxiv.org/abs/2510.19752), [Website](https://liten-vla.github.io), [Code](https://github.com/ameesh-shah/liten-vla/tree/main))
+
+* **[2025-12]** Affordance Field Intervention: Enabling VLAs to Escape Memory Traps in Robotic Manipulation. ([Paper](https://arxiv.org/abs/2512.07472))
+
+* **[2025-12]** Clutter-Resistant Vision-Language-Action Models through Object-Centric and Geometry Grounding. ([Paper](https://arxiv.org/abs/2512.22519), [Website](https://uark-aicv.github.io/OBEYED))
+
+* **[2025-12]** ManualVLA: A Unified VLA Model for Chain-of-Thought Manual Generation and Robotic Manipulation. ([Paper](https://arxiv.org/abs/2512.02013), [Website](https://sites.google.com/view/maunalvla))
+
+* **[2026-01]** PALM: Progress-Aware Policy Learning via Affordance Reasoning for Long-Horizon Robotic Manipulation. ([Paper](https://arxiv.org/abs/2601.07060), [Website](https://plan-lab.github.io/palm))
+
+* **[2026-02]** FlowHOI: Flow-based Semantics-Grounded Generation of Hand-Object Interactions for Dexterous Robot Manipulation. ([Paper](https://arxiv.org/abs/2602.13444), [Website](https://huajian-zeng.github.io/projects/flowhoi), [Code](https://github.com/huajian-zeng/flowhoi))
 
 ### Enhanced Encoder for Manipulation
 
