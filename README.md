@@ -48,8 +48,6 @@ This is a curated selection of influential papers, benchmarks and projects that 
 
 * **[2026-02]** ABot-M0: VLA Foundation Model for Robotic Manipulation with Action Manifold Learning. ([Paper](https://arxiv.org/abs/2602.11236), [Website](https://amap-cvlab.github.io/ABot-Manipulation), [Code](https://github.com/amap-cvlab/ABot-Manipulation))
 
-* **[2026-09]** Decoupled Early Exits for Task-Dependent Compute Allocation in Flow-Matching VLAs. ([Paper](https://arxiv.org/abs/2609.29382))
-
 * **[2026-02]** DM0: An Embodied-Native Vision-Language-Action Model towards Physical AI. ([Paper](https://arxiv.org/abs/2602.14974), [Code](https://github.com/Dexmal/dexbotic))
 
 * **[2026-04]** $π_{0.7}$: a Steerable Generalist Robotic Foundation Model with Emergent Capabilities. ([Paper](https://arxiv.org/abs/2604.15483), [Website](https://www.pi.website/blog/pi07))
@@ -267,6 +265,8 @@ Here we focus on helping agents better understand their own physical structure a
 * **[2025-08]** Discrete Diffusion VLA: Bringing Discrete Diffusion to Action Decoding in Vision-Language-Action Policies. ([Paper](https://arxiv.org/abs/2508.20072))
 
 * **[2026-02]** ABot-M0: VLA Foundation Model for Robotic Manipulation with Action Manifold Learning. ([Paper](https://arxiv.org/abs/2602.11236), [Website](https://amap-cvlab.github.io/ABot-Manipulation), [Code](https://github.com/amap-cvlab/ABot-Manipulation))
+
+* **[2026-09]** Decoupled Early Exits for Task-Dependent Compute Allocation in Flow-Matching VLAs. ([Paper](https://arxiv.org/abs/2609.29382))
 
 ---
 
