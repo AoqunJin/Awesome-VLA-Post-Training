@@ -224,6 +224,8 @@ Here we focus on helping agents better understand their own physical structure a
 
 * **[2025-05]** LLARVA: Vision-Action Instruction Tuning Enhances Robot Learning. ([Paper](https://arxiv.org/abs/2406.11815), [Website](https://llarva24.github.io), [Code](https://github.com/Dantong88/LLARVA))
 
+* **[2026-09]** Self-Adaptive VLA for Robust Robot Deployment. ([Paper](https://arxiv.org/abs/2609.30092), [Website](https://icefoxzhx.github.io/self-adaptive-vla))
+
 ### Action Head Designing
 
 * **[2023-10]** TAIL: Task-specific Adapters for Imitation Learning with Large Pretrained Models. ([Paper](https://arxiv.org/pdf/2310.05905))
@@ -263,6 +265,8 @@ Here we focus on helping agents better understand their own physical structure a
 * **[2025-08]** Discrete Diffusion VLA: Bringing Discrete Diffusion to Action Decoding in Vision-Language-Action Policies. ([Paper](https://arxiv.org/abs/2508.20072))
 
 * **[2026-02]** ABot-M0: VLA Foundation Model for Robotic Manipulation with Action Manifold Learning. ([Paper](https://arxiv.org/abs/2602.11236), [Website](https://amap-cvlab.github.io/ABot-Manipulation), [Code](https://github.com/amap-cvlab/ABot-Manipulation))
+
+* **[2026-09]** Decoupled Early Exits for Task-Dependent Compute Allocation in Flow-Matching VLAs. ([Paper](https://arxiv.org/abs/2609.29382))
 
 ---
 
@@ -331,6 +335,10 @@ This section covers methods that enable agents to better understand and generali
 * **[2025-06]** Fast ECoT: Efficient Embodied Chain-of-Thought via Thoughts Reuse. ([Paper](https://arxiv.org/abs/2506.07639))
 
 * **[2025-07]** ThinkAct: Vision-Language-Action Reasoning via Reinforced Visual Latent Planning. ([Paper](https://arxiv.org/abs/2507.16815), [Website](https://jasper0314-huang.github.io/thinkact-vla))
+
+* **[2026-09]** World Action Agent: Harnessing VLMs for Robot Manipulation via World Action Rehearsal. ([Paper](https://arxiv.org/abs/2609.29964))
+
+* **[2026-09]** AdaHVLA: Adaptive Harnesses for Long-Horizon Vision-Language-Action Execution. ([Paper](https://arxiv.org/abs/2609.29204))
 
 ---
 
@@ -409,6 +417,8 @@ Integrating various subsystems is essential for building robust VLA agents. This
 
 * **[2025-09]** VLA Model Post-Training via Action-Chunked PPO and Self Behavior Cloning. ([Paper](https://arxiv.org/abs/2509.25718))
 
+* **[2026-09]** Res-HIL: Human-Guided Residual Reinforcement Learning for Sample-Efficient Dexterous Manipulation. ([Paper](https://arxiv.org/abs/2609.30023))
+
 ### Visual Interaction Prediction
 
 * **[2023-12]** Unleashing large-scale video generative pre-training for visual robot manipulation. ([Paper](https://arxiv.org/abs/2312.13139), [Website](https://gr1-manipulation.github.io), [Code](https://github.com/bytedance/GR-1))
@@ -460,6 +470,8 @@ Integrating various subsystems is essential for building robust VLA agents. This
 * **[2025-07]** DreamVLA: A Vision-Language-Action Model Dreamed with Comprehensive World Knowledge. ([Paper](https://arxiv.org/abs/2507.04447), [Website](https://zhangwenyao1.github.io/DreamVLA), [Code](https://github.com/Zhangwenyao1/DreamVLA))
 
 * **[2025-07]** EgoVLA: Learning Vision-Language-Action Models from Egocentric Human Videos. ([Paper](https://arxiv.org/abs/2507.12440), [Website](https://rchalyang.github.io/EgoVLA))
+
+* **[2026-09]** Rolling-WAM: World Action Models with Rolling Imagination. ([Paper](https://arxiv.org/abs/2609.30247), [Website](https://rolling-wam.github.io), [Code](https://github.com/zyinghua/Rolling-WAM))
 
 ### Active Dataset Processing
 
